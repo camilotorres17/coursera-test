@@ -1,0 +1,92 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  font-size: 140%;
+}
+h1{
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: Impact, Charcoal, sans-serif;
+}
+div.seccion{
+  width: 33.33%;
+  float: left;
+  position: relative;
+  padding: 1%;
+}
+div.Menu{
+  margin: 0;
+  padding: 0;
+  background-color: #E3ADA2;
+  position: relative;
+  border: 1px solid black;
+}
+p{
+  /*margin: 5px;*/
+  text-align: justify;
+  clear: both;
+  margin: 10px;
+  font-family:  "Comic Sans MS", cursive, sans-serif;
+
+}
+
+.Texto{
+  font-size: 0.57em;
+}
+p.Title{
+  position: relative;
+  float: right;
+  margin: 0;
+  width: 30%;
+  text-align: center;
+  border: 1px solid black;
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 0.71em;
+}
+.P1{
+  background-color: #a2e3ba;
+}
+
+.P2{
+  background-color: #d3a2e3;
+}
+
+.P3{
+  background-color: #a2d9e3;
+}
+@media (min-width: 992px) {
+  #M1{
+    width: 33.33%;
+  }
+  #M2{
+    width: 33.33%;
+  }
+  #M3{
+    width: 33.33%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  #M1{
+    width: 50%;
+  }
+  #M2{
+    width: 50%;
+  }
+  #M3{
+    width: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  #M1{
+    width: 100%;
+  }
+  #M2{
+    width: 100%;
+  }
+  #M3{
+    width: 100%;
+  }
+}

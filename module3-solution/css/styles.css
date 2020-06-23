@@ -64,6 +64,17 @@ h1{
 .texto{
   height: 1000px;
   background-color: #fff;
+  border: 2px solid black;
+  padding: 5px;
+}
+
+.texto p{
+  color: red;
+}
+
+.texto p a:hover, .texto p a:focus{
+  
+  text-decoration: none;
 }
 /* Large devices */
 @media (min-width: 1200px) {

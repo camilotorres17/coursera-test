@@ -41,3 +41,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 1. [Module 2 Solution](https://camilotorres17.github.io/coursera-test/module2-solution/)
 2. [Module 3 Solution](https://camilotorres17.github.io/coursera-test/module3-solution/)
 3. [Module 4 Solution](https://camilotorres17.github.io/coursera-test/module4-solution/)
+4. [Module 5 Solution](https://camilotorres17.github.io/coursera-test/module5-solution/)
